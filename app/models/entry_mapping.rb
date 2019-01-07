@@ -1,0 +1,2 @@
+class EntryMapping < ApplicationRecord
+end
